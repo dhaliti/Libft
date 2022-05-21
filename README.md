@@ -14,3 +14,5 @@ As you can see from the [Project instructions][1], there are 4 sections:
 4.  **Personal Functions:** Functions I believe will be useful later. [Documented here][3].
 
 <img width="766" alt="Screen Shot 2022-05-21 at 3 49 13 PM" src="https://user-images.githubusercontent.com/105823790/169654811-1ad53f59-84b4-4eee-a183-92a06bd0a378.png">
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)

@@ -13,4 +13,4 @@ As you can see from the [Project instructions][1], there are 4 sections:
 3.  **Bonus Functions:** Functions 42 deems will be useful for linked list manipulation
 4.  **Personal Functions:** Functions I believe will be useful later. [Documented here][3].
 
-![libft](https://user-images.githubusercontent.com/105823790/169654516-32969a66-96a6-4ba8-a704-5744088a1a2e.png)
+<img width="766" alt="Screen Shot 2022-05-21 at 3 49 13 PM" src="https://user-images.githubusercontent.com/105823790/169654811-1ad53f59-84b4-4eee-a183-92a06bd0a378.png">

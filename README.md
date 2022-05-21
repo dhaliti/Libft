@@ -12,3 +12,5 @@ As you can see from the [Project instructions][1], there are 4 sections:
 2.  **Additional functions:** Functions 42 deems will be useful for later projects
 3.  **Bonus Functions:** Functions 42 deems will be useful for linked list manipulation
 4.  **Personal Functions:** Functions I believe will be useful later. [Documented here][3].
+
+![libft](https://user-images.githubusercontent.com/105823790/169654516-32969a66-96a6-4ba8-a704-5744088a1a2e.png)
